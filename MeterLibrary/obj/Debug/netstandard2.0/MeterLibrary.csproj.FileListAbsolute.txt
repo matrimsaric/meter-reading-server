@@ -1,0 +1,8 @@
+C:\Users\matri\source\repos\MeterSandbox\MeterLibrary\bin\Debug\netstandard2.0\MeterLibrary.deps.json
+C:\Users\matri\source\repos\MeterSandbox\MeterLibrary\bin\Debug\netstandard2.0\MeterLibrary.dll
+C:\Users\matri\source\repos\MeterSandbox\MeterLibrary\bin\Debug\netstandard2.0\MeterLibrary.pdb
+C:\Users\matri\source\repos\MeterSandbox\MeterLibrary\obj\Debug\netstandard2.0\MeterLibrary.csproj.CoreCompileInputs.cache
+C:\Users\matri\source\repos\MeterSandbox\MeterLibrary\obj\Debug\netstandard2.0\MeterLibrary.AssemblyInfoInputs.cache
+C:\Users\matri\source\repos\MeterSandbox\MeterLibrary\obj\Debug\netstandard2.0\MeterLibrary.AssemblyInfo.cs
+C:\Users\matri\source\repos\MeterSandbox\MeterLibrary\obj\Debug\netstandard2.0\MeterLibrary.dll
+C:\Users\matri\source\repos\MeterSandbox\MeterLibrary\obj\Debug\netstandard2.0\MeterLibrary.pdb
